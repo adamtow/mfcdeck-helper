@@ -1,0 +1,15 @@
+{
+	"en-US": {
+		"alert_update_none": "You are running the latest version of MFC Deck Helper.",
+		"menu_get": "Get MFC Deck…",
+		"menu_help": "Help…",
+		"menu_open": "Open MFC Deck…",
+		"menu_quit": "Quit",
+		"menu_update": "Check for Updates…",
+		"menu_update_later": "Update Later",
+		"menu_update_now": "Update Now…",
+		"language_key": "en-US",
+		"language_name": "English",
+		"prompt_update": "MFC Deck Helper version __VERSION__ is available. Would you like to download it now?\n\nRelease Notes\n\n__NOTES__"
+	}
+}
