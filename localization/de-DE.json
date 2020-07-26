@@ -1,0 +1,16 @@
+{
+	"de-DE": {
+		"author": "J. Neugebauer (@jneug)",
+		"alert_update_none": "Du benutzt die aktuellste Version von MFC Deck Helper.",
+		"menu_get": "MFC Deck installieren…",
+		"menu_help": "Hilfe…",
+		"menu_open": "MFC Deck öffnen…",
+		"menu_quit": "Beenden",
+		"menu_update": "Auf Aktualisierungen prüfen…",
+		"menu_update_later": "Später aktualisieren",
+		"menu_update_now": "Jetzt aktualisieren…",
+		"language_key": "de-DE",
+		"language_name": "Deutsch",
+		"prompt_update": "Version __VERSION__ von MFC Deck Helper ist verfügbar. Möchtest du die neue Verson nun installieren?\n\nRelease Notes\n\n__NOTES__"
+	}
+}
